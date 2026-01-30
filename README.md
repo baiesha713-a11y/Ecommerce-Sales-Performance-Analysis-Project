@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Performance-Analysis-Project
+E-Commerce Sales Analytics Project
 
 Python | SQL | Power BI | Gamma Presentation
 
