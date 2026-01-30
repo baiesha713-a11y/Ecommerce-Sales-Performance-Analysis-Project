@@ -2,6 +2,8 @@ E-Commerce Sales Analytics Project
 
 Python | SQL | Power BI | Gamma Presentation
 
+presentation link : "C:\Users\b aiesha\Downloads\Ecommerce-Sales-Performance-Analysis.pptx"
+
 📌 Project Overview
 
 This project is an end-to-end data analytics solution built on an e-commerce transactional dataset.
